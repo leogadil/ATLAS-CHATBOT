@@ -1,0 +1,81 @@
+class,question
+greet,hello
+greet,hi there
+greet,hi
+greet,hi
+greet,hi
+greet,hello there
+bye,good bye
+bye,goodbye
+bye,okay bye
+bye,bye
+bye,bye thanks
+tell_name,my name is leo
+tell_name,im leo
+tell_name,im kyky
+tell_name,im mixen
+tell_name,leo is my name
+tell_name,you can call me leo
+tell_name,i am leo
+add_order,can i get a chicken joy
+add_order,can i get a waffles
+add_order,two soda
+add_order,three chicken sandwich
+add_order,one fries
+add_order,can i get two burgers
+add_order,can i get one burgers
+add_order,i want four sushi
+add_order,i need five sushi
+add_order,i need three soda
+delete_order,please remove chicken joy
+delete_order,remove chicken sandwich
+delete_order,remove chicken sandwich
+delete_order,i dont like fries
+delete_order,take off waffles
+delete_order,remove one pizza and two fried chicken
+delete_order,take off waffles
+delete_order,remove one pizza
+delete_order,can i remove one pizza and two fried chicken
+delete_order,could i remove pizza and burrito
+delete_order
+delete_order
+cancel_order,cancel my order
+cancel_order,cancel my reservation
+cancel_order,cancel everything
+cancel_order,take off my reservation
+cancel_order,i dont like to eat anymore
+see_menu,see menu
+see_menu,i want to order
+see_menu,can i get the menu
+see_menu,get me the menu
+see_menu,start order
+see_menu,can i see the menu please
+see_menu,what is in your menu
+see_menu,where is your menu
+see_cart,see cart
+see_cart,i wanna see my cart
+see_cart,cart please
+see_cart,show cart
+see_cart,can i see the cart please
+reset_cart,reset my cart
+reset_cart,reset cart
+reset_cart,remove everything from my cart
+checkout,checkout
+checkout,checkout
+checkout,checkout
+checkout,i think thats it
+checout,wed like to check out please
+checkout,bill
+checkout,bill out
+checkout,i'd like to checkout
+general_question,can i see your boss?
+general_question,are you open for today?
+general_question,can i speak with your boss?
+general_question,what is your business hours?
+general_question,who are your creators?
+general_question,what time is it?
+general_question,what is your name?
+general_question,what are you?
+general_question,who are you?
+general_question,fuck you
+general_question,youre an asshole

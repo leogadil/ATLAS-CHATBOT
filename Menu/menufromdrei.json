@@ -1,0 +1,106 @@
+[
+    {
+        "Order_id": "1",
+        "Order_name": "Fried Chicken",
+        "Order_price": 10.0,
+        "Order_duration": 15
+    }
+    ,
+    {
+        "Order_id": "2",
+        "Order_name": "Spaghetti",
+        "Order_price": 8.0,
+        "Order_duration": 10
+    }
+    ,
+    {
+        "Order_id": "3",
+        "Order_name": "Hamburger",
+        "Order_price": 5.0,
+        "Order_duration": 5
+    }
+    ,
+    {
+        "Order_id": "4",
+        "Order_name": "Sisig",
+        "Order_price": 13.0,
+        "Order_duration": 10
+    }
+    ,
+    {
+        "Order_id": "5",
+        "Order_name": "Milk Tea",
+        "Order_price": 15.0,
+        "Order_duration": 8
+    }
+    ,
+    {
+        "Order_id": "6",
+        "Order_name": "Burrito",
+        "Order_price": 8.0,
+        "Order_duration": 5
+    }
+    ,
+    {
+        "Order_id": "7",
+        "Order_name": "Pizza",
+        "Order_price": 20.0,
+        "Order_duration": 20
+    }
+    ,
+    {
+        "Order_id": "8",
+        "Order_name": "Pancit",
+        "Order_price": 18.0,
+        "Order_duration": 30
+    }
+    ,
+    {
+        "Order_id": "9",
+        "Order_name": "Pulled Pork",
+        "Order_price": 20.0,
+        "Order_duration": 60
+    }
+    ,
+    {
+        "Order_id": "10",
+        "Order_name": "Nuggets",
+        "Order_price": 10.0,
+        "Order_duration": 10
+    }
+    ,
+    {
+        "Order_id": "11",
+        "Order_name": "Takoyaki",
+        "Order_price": 25.0,
+        "Order_duration": 30
+    }
+    ,
+    {
+        "Order_id": "12",
+        "Order_name": "Crispy Pata",
+        "Order_price": 15.0,
+        "Order_duration": 25
+    }
+    ,
+    {
+        "Order_id": "13",
+        "Order_name": "Glazed Ham",
+        "Order_price": 35.0,
+        "Order_duration": 40
+    }
+    ,
+    {
+        "Order_id": "14",
+        "Order_name": "Sushi",
+        "Order_price": 40.0,
+        "Order_duration": 45
+    }
+    ,
+    {
+        "Order_id": "15",
+        "Order_name": "Beef Wellington",
+        "Order_price": 60.0,
+        "Order_duration": 80
+    }
+]

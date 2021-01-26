@@ -1,0 +1,20 @@
+sentence,start,end,label
+my name is leo,11,14,PERSON
+my name is drei,11,15,PERSON
+im leo,3,6,PERSON
+im matt,3,7,PERSON
+can i get a chicken joy.,12,23,ORDER
+can i get a waffle,12,18,ORDER
+i want dumplings,7,16,ORDER
+one chicken joy please,1 4,3 15,ORDER_COUNT ORDER
+two soda,1 4,3 8,ORDER_COUNT ORDER
+seven spaghetti,1 6,5 9,ORDER_COUNT ORDER
+can i get two large pizza,10 14,13 25,ORDER_COUNT ORDER
+can i get one medium shakes,10 15,13 25,ORDER_COUNT ORDER
+can i get three small kimbap,10 16,15 28,ORDER_COUNT ORDER
+i want one sushi,7 11,10 16,ORDER_COUNT ORDER
+i want three dumpling,7 13,12 21,ORDER_COUNT ORDER
+i need seven water,7 13,12 18,ORDER_COUNT ORDER
+i want a fried chicken,9,22,ORDER
+i want a chicken joy,9,20,ORDER
+i want a sisig,9,14,ORDER

@@ -1,0 +1,123 @@
+{
+    "$GREET2NAME$": [
+        "Nice to meet you",
+        "Pleased to meet you",
+        "It was lovely meeting you",
+        "Glad to meet you",
+        "It’s a pleasure to meet you",
+        "It’s very nice to meet you",
+        "Lovely to meet you"
+    ],
+    "$ASKNAME$": [
+        "What is your name",
+        "What do i call you",
+        "Can i get your name",
+        "Can i please get your name"
+    ],
+    "$HELLOBACK$": [
+        "Hello",
+        "Hi there",
+        "Hello there",
+        "It is good to see you",
+        "Hey"
+    ],
+    "$ASKGENERAL$": [
+        "What can i do for you?",
+        "How may i help you?",
+        "Wanna see the Menu? #SEE_MENU#"
+    ],
+    "$ASKGENERAL2$": [
+        "What can i do for you?",
+        "How may i help you?"
+    ],
+    "$INTRO$": [
+        "Hello and Welcome to Restaurant_name!\n",
+        "Welcome to Restaurant_name.\n",
+        "Thank you for choosing us, Please enjoy your meal!\n"
+    ],
+    "$EMPTY$": [
+        "Could you rephrase that, I didn't get it.",
+        "Im sorry, could you say that again",
+        "Didn't get that",
+        "Sorry, can't understand you",
+        "Please give me more info",
+        "Not sure I understand",
+        "Sorry, try rephrasing your query"
+    ],
+    "$MENUINTRO$": [
+        "here is our menu\n",
+        "here it is\n",
+        "there you go\n"
+    ],
+    "$CARTINTRO$": [
+        "here is your cart\n",
+        "here it is\n",
+        "there you go\n"
+    ],
+    "$AGREE$": [
+        "Okay",
+        "Okie Dokie",
+        "Ok",
+        "K",
+        "Got it"
+    ],
+    "$ORDERINTRO$": [
+        "Added",
+        "I've added"
+    ],
+    "$PURGEINTRO$": [
+        "removed",
+        "I've removed"
+    ],
+    "$ORDEROUTRO$": [
+        "to your cart.",
+        "unto your cart. lovely choice"
+    ],
+    "$PURGEOUTRO$": [
+        "from your cart.",
+        "from your order."
+    ],
+    "$DELETED$": [
+        "Your cart is now empty.",
+        "Chaching! Your cart is now purged!",
+        "Purged",
+        "I've resetted your cart."
+    ],
+    "$ASKBOSS$": [
+        "No, you can't.",
+        "Fuck no",
+        "can i talk to your mother?",
+        "your mom is a hoe"
+    ],
+    "$ABOUTCREATOR$": [
+        "I was made by two people,\nJann Leo Gadil made the inner workings of my brain.\nAndrei Jei Martinez built my knowledge and understanding \nabout my purpose (A humble Restaurant Chatbot).",
+        "Here is my creators,\nJann Leo Gadil made my body and \nAndrei Jei Martinez teaches me how to undestand you"
+    ],
+    "$TIME$": [
+        "The time is {hour}:{minute} {ampm}.",
+        "It's currently {hour}:{minute} {ampm}.",
+        "It's {month}, {day} {year} and currently {hour}:{minute} {ampm}"
+    ],
+    "$ABOUTME$": [
+        "I am a restaurant bot. I am capable of having a normal conversation about THE DEN.",
+        "I'm an AI Waiter, ready to serve you.",
+        "I am Atlas, Here to serve you with all your need."
+    ],
+    "$TELL_NAME$": [
+        "Hi, my name is Bot_name",
+        "hello, im Bot_name",
+        "My name is Bot_name"
+    ],
+    "$EMPTYCART$": [
+        "Either Your cart is empty or you havent given me your name.",
+        "Empty cart. Try adding an item. Or give me your name.",
+        "Your cart is empty. Would you like to see the menu? #SEE_MENU#"
+    ],
+    "$CHECKOUTINTRO$": [
+        "Thank you for choosing Restaurant_name. \n\nAtlas: Your order will be ready for pick-up or dine-in in {duration} minutes.\n",
+        "Your order will be ready in {duration} minutes.\n"
+    ],
+    "$NAMEEMPTY$": [
+        
+    ]
+}
